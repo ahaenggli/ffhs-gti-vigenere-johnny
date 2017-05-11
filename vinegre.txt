@@ -2,9 +2,9 @@
 /* "Variablen" */
 #1: Anzahl Buchstaben Passwort
 #2: Startbefehl für PW-Anzahl auslesen
-#3:
-#4:
-#5:
+#3: Startbefehl für Text auslesen
+#4: Offset A-Zeichen
+#5: Offset Z-Zeichen
 #6:
 #7:
 
