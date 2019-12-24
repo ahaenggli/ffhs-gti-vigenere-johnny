@@ -1,5 +1,5 @@
 # ffhs-gti-vigenere-johnny
-Semesterarbeit (2017) in GTI: Vigenère-Chiffre mit Johnny
+Semesterarbeit (2017) in GTI: Vigenère-Chiffre mit Johnny (Simulator für Rechner mit Von-Neumann-Architektur)
 
 ## Ausgangslage
 Bei der Vigenère-Chiffre handelt es sich um eine Verschiebechiffre bei der jeder Buchstabe eines Textes im Alphabet verschoben wird. Im Gegensatz zur Caesar-Verschlüsselung wird hierbei aber jeder Buchstabe aufgrund eines Schlüsselwortes und der Textposition verschoben. 
